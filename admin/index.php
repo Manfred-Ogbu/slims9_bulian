@@ -43,7 +43,7 @@ if ($sysconf['https_enable']) {
 }
 
 // page title
-$page_title = $sysconf['library_name'].' | '.__('Senayan Library Management System');
+$page_title = $sysconf['library_name'];
 // main menu
 $module = new module();
 $module->setModulesDir(MDLBS);
