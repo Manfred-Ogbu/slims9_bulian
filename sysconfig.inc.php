@@ -342,9 +342,9 @@ $sysconf['reserve_direct_database'] = true;
 $sysconf['reserve_on_loan_only'] = false;
 
 /* CONTENT */
-$sysconf['library_name'] = 'Senayan';
-$sysconf['library_subname'] = 'Open Source Library Management System';
-$sysconf['page_footer'] = ' Senayan Library Management System (SLiMS). Released Under GNU GPL License.<br>Made with love by SLiMS Developer Community';
+$sysconf['library_name'] = 'Ok-Library';
+$sysconf['library_subname'] = 'Library Management System';
+$sysconf['page_footer'] = ' Ok-Library Management System.';
 
 /* HTTPS Setting */
 $sysconf['https_enable'] = false;
