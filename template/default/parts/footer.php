@@ -77,8 +77,8 @@
         </div>
         <hr>
         <div class="flex font-thin text-sm">
-            <p class="flex-1">&copy; <?php echo date('Y'); ?> &mdash; Senayan Developer Community</p>
-            <div class="flex-1 text-right text-grey"><?= __('Powered by '); ?><code>SLiMS</code></div>
+            <p class="flex-1">&copy; <?php echo date('Y'); ?> &mdash; Michael Okpara University of Agriculture, Umudike</p>
+            <div class="flex-1 text-right text-grey"><?= __('Powered by '); ?><code>Ok-Library</code></div>
         </div>
     </div>
 </footer>
